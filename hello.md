@@ -1,1 +1,1 @@
-# I am learning to use git! I amd learning to use github!
+# I am learning to use git! I am learning to use github!
